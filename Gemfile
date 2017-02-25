@@ -6,6 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 gem 'devise'
+gem 'paperclip'
 
 gem 'rails', '~> 5.0.1'
 gem 'sqlite3'
