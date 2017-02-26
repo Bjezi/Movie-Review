@@ -8,6 +8,7 @@ end
 gem 'devise'
 gem 'paperclip'
 gem 'bootstrap-sass'
+gem 'searchkick'
 
 gem 'rails', '~> 5.0.1'
 gem 'sqlite3'
